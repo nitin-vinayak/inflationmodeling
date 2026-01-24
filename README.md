@@ -41,7 +41,7 @@ SARIMAX Configuration:
 ### Forecast Accuracy Comparison
 | Model | RMSE | MAE | Improvement |
 |-------|------|-----|-------------|
-| **Baseline SARIMAX** | 2.8286 | 2.0248 | - |
+| **Baseline SARIMAX** | 2.8286 | 2.0248 | ✓ |
 | **SARIMAX + Exogenous** | 2.7580 | 1.9623 | ✓ |
 | **% Improvement** | 2.50% | 3.09% | - |
 
